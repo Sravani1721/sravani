@@ -1,0 +1,36 @@
+.bgimg{
+    background-image: url("https://img.freepik.com/free-photo/beautiful-tasty-appetizing-ingredients-spices-grocery-cooking-healthy-kitchen-dark-black-background-horizontal-toning-copy-space_1220-1738.jpg?w=740&t=st=1668707444~exp=1668708044~hmac=e08dd09df0f9e9e9a1602ddd1297fc13ff4c126cd3e5fba9f6db485844c372b6");
+
+    height: 200vh;
+    background-size: cover;
+    
+}
+.heading{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 25px;
+    font-size: 45px;
+}
+.layoutcard{
+    padding: 18px;
+    background-color:whitesmoke;
+    border-radius:8px;
+    margin: 15px;
+}
+.mealcont{
+    color: #2b2221;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+.paraline{
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #302a2a;
+
+}
+.mealimg{
+    height: 120px;
+    width: 120px;
+}
